@@ -22,7 +22,11 @@ https://gallery.cortanaintelligence.com/Experiment/Automobile-price-prediction-4
  
   
 
-https://user-images.githubusercontent.com/82074806/152151782-5a5347c1-e83d-4211-ada1-e8a2e97c7f32.mp4
+
+
+https://user-images.githubusercontent.com/82074806/152152998-25840fe4-52c7-4856-8bc4-039208d0b313.mp4
+
+
 
 
 
